@@ -9,7 +9,7 @@ IDLabel0bending_flexural_crack1no_crack2tensile_mode_I_crack3torsional_helical_c
 Performance
 MetricValueTop-1 Accuracy90.27%Top-5 Accuracy100.00%Validation Loss0.4617Fitness Score0.9513
 
-Best checkpoint was saved at epoch 10 (top-1 accuracy: 90.27%).
+Best checkpoint was saved at epoch 10 (top-1 accuracy: 82.27%).
 
 
 Training Configuration
